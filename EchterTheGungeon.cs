@@ -1,17 +1,16 @@
-﻿using System;
-
-namespace EchterTheGungeon
+﻿namespace EchterTheGungeon
 {
     public class EchterTheGungeon : ETGModule
     {
+        // Seems to be a lack of XML summaries, pretty cringe.
+        // Lacking in documentation in general.
+
         public override void Init()
         {
-            Console.WriteLine("Initialized (EchterTG)");
         }
 
         public override void Start()
         {
-            Console.WriteLine("Started (EchterTG)");
         }
 
         public override void Exit()
