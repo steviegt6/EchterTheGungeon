@@ -3,6 +3,7 @@ Name: EchterTheGungeon
 Version: 1.0.0
 Author: convicted tomatophile (Stevie)
 
+# Other stuff
 DLL: EchterTheGungeon.dll
 
 Depends: Base 0.2
